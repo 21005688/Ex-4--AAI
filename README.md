@@ -56,7 +56,8 @@ print("Thye most likely sequence of weather states is :",m_l_s)
 ```
 
 ## Output:
-![Uploading image.png…]()
+![image](https://github.com/21005688/Ex-4--AAI/assets/94747031/bf6260b3-d661-4b31-8f23-f9229bf303cd)
+
 
 
 ## Result:
